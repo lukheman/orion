@@ -4,5 +4,4 @@
 .idea
 .vscode
 *.log
-config/config.php
 .aider*
